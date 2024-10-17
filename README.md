@@ -1,1 +1,2 @@
 # Web-Scrapping-Equipp.in-
+This project, developed by Kishan H S, involves web scraping the Equipp.in website to extract detailed product information, including product names, prices, and stock availability. The goal of the project is to automate the process of collecting this data for analysis, monitoring price changes, or building a product catalog. The web scraping script retrieves the data from multiple pages of the website and compiles it into a structured format for easy use and further analysis.
